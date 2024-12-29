@@ -6,7 +6,7 @@ A modern, interactive Sudoku puzzle solver built with React, TypeScript, and Tai
 
 ## Demo
 
-https://rainbow-crepe-7a9f44.netlify.app/
+https://sudoku-solver-app-deploy.netlify.app/
 
 ## Features
 
