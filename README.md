@@ -4,6 +4,10 @@ A modern, interactive Sudoku puzzle solver built with React, TypeScript, and Tai
 
 ![Sudoku Solver Screenshot](https://i.imgur.com/5qTeKRm.png)
 
+## Demo
+
+https://rainbow-crepe-7a9f44.netlify.app/
+
 ## Features
 
 - 🎮 Interactive 9x9 Sudoku grid
