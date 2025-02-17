@@ -2,7 +2,7 @@
 
 A modern, interactive Sudoku puzzle solver built with React, TypeScript, and Tailwind CSS. This application features a beautiful UI with a gradient background, interactive grid selection, and an automatic solving algorithm.
 
-![Sudoku Solver Screenshot](https://i.imgur.com/5qTeKRm.png)
+![Sudoku Solver Screenshot](https://i.imgur.com/caT2uhz.png)
 
 ## Demo
 
@@ -76,9 +76,6 @@ The solver uses a backtracking algorithm to find the solution:
 5. Use "Reset" to clear the grid
 
 ## Screenshots
-
-### Main Interface
-![Main Interface](https://i.imgur.com/vPTODOh.png)
 
 ### Solving in Progress
 ![Solving Progress](https://i.imgur.com/2kVkXfU.png)
